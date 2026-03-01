@@ -46,7 +46,7 @@ We are in the **Concept & Proof of Concept** phase. We are seeking input from en
 ## 🤝 Join the Swarm
 This is an invitation to innovate. We believe the future of live experiences belongs to the collective, not a proprietary black box.
 
-* **Contribute:** Check the [Issues] or [Discussions] to help define the initial spec.
+* **Contribute:** Check the [Issues] tab to help define the initial spec.
 * **Build:** Help us develop the first reference implementations for the Bridged Mesh Layer.
 
 *"The crowd is the canvas. Let’s build the brush."*
