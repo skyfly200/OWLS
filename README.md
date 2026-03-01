@@ -8,7 +8,7 @@
 Project OWLS is an open-source initiative to move beyond centralized proprietary control systems for synchronized crowd illumination hardware. Instead of a single master transmitter, we are building a **Decentralized Mesh**  — an organic, self-organizing network anyone can join or add onto. Where the crowd itself is the infrastructure and simultaniusly the medium for artistic expression.
 
 Our goals are
-- To foster the developmenty an evolution of a new standard that allows thousands of individual nodes to react as a single, living organism.
+- To foster the development and evolution of a new standard that allows thousands of individual nodes to react as a single, living organism.
 - Creating the technical pillars of this system; localization and messaging to initiate spatial lighting effects.
 - Documenting and provide refrence for new artists to adopt the standard. Including it in thier creations, expanding the networks reach.
 
